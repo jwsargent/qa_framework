@@ -1,0 +1,7 @@
+require 'rest-client'
+require 'capybara'
+require 'capybara/poltergeist'
+require 'selenium-webdriver'
+require 'rspec'
+require 'json'
+require 'pry'
