@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
 
   gem.summary     = 'Includes all files and gems for QA framework'
   gem.description = 'Houses gem dependencies for QA framework'
-  gem.files       = "lib/tools/config.rb"
+  gem.files       = "tools/config.rb"
 
   # gem.homepage  =
 
